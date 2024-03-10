@@ -1,2 +1,2 @@
 # bitcoin_core_testing
-Testing Files/Guides
+This repository contains useful and temporary testing files, such as Test Guides for release candidates.
